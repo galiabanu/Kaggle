@@ -1,0 +1,5 @@
+# USEFUL INFORMATION
+
+1. KAGGLE TIPS 
+
+https://github.com/h2oai/h2o-meetups/blob/master/2016_12_15_SV_BigDataScience/2016_12_15_H2O_Meetup_Kaggle_Tips.pdf
